@@ -1,10 +1,14 @@
-let userName = prompt("Как тебя зовут?");
+/*let userName = prompt("Как тебя зовут?");
+let userNameUpperCase = userName.toUpperCase(); //верхний регистр
+let userNameLowerCase = userName.toLocaleLowerCase(); //нижний регистр
 
 // свойство длина
 // userName.length;
 
 // доступ к символам по индексам
-document.write(userName);
+
+document.write(userNameUpperCase + "<br>");
+document.write(userNameLowerCase);*/
 
 ////////////////////////////////////////////////////////////////////////////////
 /*let userName = prompt("Как тебя зовут?");
