@@ -37,7 +37,7 @@ document.write(
 document.write(`${whatIsYourAge}`);*/
 
 //////////////////////////////////////////////////////////////////////////////////4. Составить скрипт, который запрашивает у пользователя ввести номер кредитной карты. Скрипт должен обработать полученный номер и показать на странице последние 4 цифры карты. **Пример: "Номер вашей карты: **********1245"**
-
+/*
 alert("Card Number should consist from 18-digits!");
 let cardNumber = prompt("Please write down Your Card Number");
 checkIfNumber();
@@ -62,4 +62,4 @@ function checkCardLength() {
   } else if (cardNumber.length >= 19) {
     alert("Please input correct Card credentials!");
   }
-}
+}*/
