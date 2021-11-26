@@ -1,5 +1,5 @@
 # Kelechek-lessons
-Zadachi (peelPotatoes, TablizaUmnojeniya, Polindrome) - lesson 8. <br>
+Zadachi (peelPotatoes, TablizaUmnojeniya, Polindrome) - # lesson 8. <br>
 Zadachi ('Укажите букву латинского алфавита!', Глассная, Согласная!; Три целых числа и выводящую их в упорядоченном виде – по возрастанию) - lesson 6. <br>
 Zadachi (Odd or Even, из введенного названия месяца нужно вывести сообщение с названием времени года, ChineseCalendar - homeWork.js, <br>
 SwitchCase'Lang', Проверьте что первым символом этой строки является буква '**`a`**', Проверьте что первая цифра числа 1, 2 или 3 - js.js) - lesson 5. <br>
